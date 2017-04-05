@@ -3,8 +3,8 @@
 		{{#link-to 'contact'}}Contact{{/link-to}}
 	</div>
 <div class="items">
-{{#each model as |computer|}}
-	{{computer-tile computer=computer}}
+{{#each model.computers as |computer|}}
+	{{computer-tile model=computer}}
 {{/each}}
 </div>
 
