@@ -1,0 +1,14 @@
+{
+	"computers": [{
+		"brand": "hp",
+		"processor": "",
+		"title": "hp DV6",
+		"description": "2GB RAM 500GB HDD",
+		"cost": "2",
+		"image": "https://"
+		}],
+		"reviews": [{
+			"Author": "hp",
+			"content": ""
+			}]
+}
