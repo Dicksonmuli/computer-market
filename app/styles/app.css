@@ -23,9 +23,9 @@ ul{
 	list-style-type: none;
 }
 .items{
-  display: inline-block;
+  
 }
 .item{
-  width: 200px;
-  height: 200px;
+  width: 300px;
+  height: 300px;
 }

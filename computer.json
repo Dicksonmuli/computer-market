@@ -1,11 +1,32 @@
 {
 	"computers": [{
 		"brand": "hp",
-		"processor": "",
+		"processor": "core i3",
 		"title": "hp DV6",
 		"description": "2GB RAM 500GB HDD",
 		"cost": "2",
-		"image": "https://"
+		"image": "http://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c05059975.png"
+	},{
+		"brand": "hp",
+		"processor": "core i5",
+		"title": "compaq",
+		"description": "3GB RAM 500GB HDD",
+		"cost": "2",
+		"image": "http://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c05059975.png"},
+		{
+		"brand": "hp",
+		"processor": "core i3",
+		"title": "hp DV6",
+		"description": "4GB RAM 500GB HDD",
+		"cost": "2",
+		"image": "http://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c05059975.png"},
+		{
+		"brand": "hp",
+		"processor": "core i3",
+		"title": "hp DV6",
+		"description": "6GB RAM 500GB HDD",
+		"cost": "2",
+		"image": "http://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c05059975.png"
 		}],
 		"reviews": [{
 			"Author": "hp",

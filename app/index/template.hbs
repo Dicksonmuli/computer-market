@@ -2,10 +2,12 @@
 	<div class="">
 		{{#link-to 'contact'}}Contact{{/link-to}}
 	</div>
-<div class="items">
+<div class="items container-fluid">
+	<ul>
 {{#each model as |computer|}}
 	{{computer-tile computer=computer}}
 {{/each}}
+</ul>
 </div>
 
 </div>
