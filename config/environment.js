@@ -15,6 +15,15 @@ module.exports = function(environment) {
         // Prevent Ember Data from overriding Date.parse.
         Date: false
       }
+
+    },
+    firebase:{
+      apiKey: "AIzaSyDucJPyEU5SxJTvCzZ-XaVMoFECCMm20Zc",
+   authDomain: "computer-market.firebaseapp.com",
+   databaseURL: "https://computer-market.firebaseio.com",
+   projectId: "computer-market",
+   storageBucket: "computer-market.appspot.com",
+   messagingSenderId: "121280021278"
     },
 
     APP: {
