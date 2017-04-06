@@ -12,3 +12,12 @@ ul{
 .white{
   color: white;
 }
+.white-center{
+	  color: white;
+		position: absolute;
+ 		top: 30%;
+}
+
+.form-group{
+	padding-left: 40px;
+}
