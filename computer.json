@@ -4,30 +4,95 @@
 		"processor": "core i3",
 		"title": "hp DV6",
 		"description": "2GB RAM 500GB HDD",
-		"cost": "2",
+		"cost": "40000",
 		"image": "http://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c05059975.png"
 	},{
 		"brand": "hp",
 		"processor": "core i5",
 		"title": "compaq",
 		"description": "3GB RAM 500GB HDD",
-		"cost": "2",
-		"image": "http://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c05059975.png"},
-		{
-		"brand": "hp",
-		"processor": "core i3",
-		"title": "hp DV6",
-		"description": "4GB RAM 500GB HDD",
-		"cost": "2",
-		"image": "http://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c05059975.png"},
+		"cost": "45000",
+		"image": "http://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c05059975.png"
+	},
 		{
 		"brand": "hp",
 		"processor": "core i3",
 		"title": "hp DV6",
 		"description": "6GB RAM 500GB HDD",
-		"cost": "2",
+		"cost": "50000",
 		"image": "http://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c05059975.png"
-		}],
+		},{
+			"brand": "ASUS",
+			"processor": "core i5",
+			"title": "Vivo Book Pro",
+			"description": "6GB RAM 1TB HDD",
+			"cost": "55000",
+			"image": "https://cdn.mediamart.vn/Product/19699_14644_laptop-asus-t200ta-cp004h-64gb-500gb.jpg"
+		},
+		{
+			"brand": "ASUS",
+			"processor": "core i5",
+			"title": "Vivo Book Pro",
+			"description": "6GB RAM 1TB HDD",
+			"cost": "55000",
+			"image": "http://zdnet4.cbsistatic.com/hub/i/2016/03/07/3a7daf03-b12f-4ab3-8a42-24b78c6ff5b1/3f56b477b8dc317b80da23966ffe2845/asus-vivobook-e200-main2.jpg"
+			},
+			{
+				"brand": "Lenovo",
+				"processor": "core i5",
+				"title": "Vivo Book Pro",
+				"description": "6GB RAM 1TB HDD",
+				"cost": "53000",
+				"image": "http://zdnet4.cbsistatic.com/hub/i/2016/03/07/3a7daf03-b12f-4ab3-8a42-24b78c6ff5b1/3f56b477b8dc317b80da23966ffe2845/asus-vivobook-e200-main2.jpg"
+				},
+				{
+					"brand": "Lenovo",
+					"processor": "core i5",
+					"title": "Vivo Book Pro",
+					"description": "6GB RAM 1TB HDD",
+					"cost": "54000",
+					"image": "http://zdnet4.cbsistatic.com/hub/i/2016/03/07/3a7daf03-b12f-4ab3-8a42-24b78c6ff5b1/3f56b477b8dc317b80da23966ffe2845/asus-vivobook-e200-main2.jpg"
+					},
+					{
+						"brand": "Macbook",
+						"processor": "core i7",
+						"title": "Macbook Pro",
+						"description": "16GB RAM 1TB SSD",
+						"cost": "200000",
+						"image": "http://zdnet4.cbsistatic.com/hub/i/2016/03/07/3a7daf03-b12f-4ab3-8a42-24b78c6ff5b1/3f56b477b8dc317b80da23966ffe2845/asus-vivobook-e200-main2.jpg"
+						},
+						{
+							"brand": "Macbook",
+							"processor": "core i5",
+							"title": "Macbook Pro",
+							"description": "6GB RAM 1TB HDD",
+							"cost": "180000",
+							"image": "http://zdnet4.cbsistatic.com/hub/i/2016/03/07/3a7daf03-b12f-4ab3-8a42-24b78c6ff5b1/3f56b477b8dc317b80da23966ffe2845/asus-vivobook-e200-main2.jpg"
+							},
+							{
+								"brand": "Dell",
+								"processor": "core i5",
+								"title": "Vivo Book Pro",
+								"description": "6GB RAM 1TB HDD",
+								"cost": "80000",
+								"image": "http://zdnet4.cbsistatic.com/hub/i/2016/03/07/3a7daf03-b12f-4ab3-8a42-24b78c6ff5b1/3f56b477b8dc317b80da23966ffe2845/asus-vivobook-e200-main2.jpg"
+								},
+							{
+								"brand": "Acer",
+								"processor": "core i5",
+								"title": "Vivo Book Pro",
+								"description": "6GB RAM 1TB HDD",
+								"cost": "60000",
+								"image": "http://zdnet4.cbsistatic.com/hub/i/2016/03/07/3a7daf03-b12f-4ab3-8a42-24b78c6ff5b1/3f56b477b8dc317b80da23966ffe2845/asus-vivobook-e200-main2.jpg"
+							},
+							{
+								"brand": "Toshiba",
+								"processor": "core i5",
+								"title": "Vivo Book Pro",
+								"description": "6GB RAM 1TB HDD",
+								"cost": "70000",
+								"image": "http://zdnet4.cbsistatic.com/hub/i/2016/03/07/3a7daf03-b12f-4ab3-8a42-24b78c6ff5b1/3f56b477b8dc317b80da23966ffe2845/asus-vivobook-e200-main2.jpg"
+								}],
 		"reviews": [{
 			"Author": "hp",
 			"content": ""
