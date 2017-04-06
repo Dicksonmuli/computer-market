@@ -17,7 +17,9 @@ module.exports = function(environment) {
       }
 
     },
+
     firebase:{
+      // firebase API  key
       apiKey: "AIzaSyDucJPyEU5SxJTvCzZ-XaVMoFECCMm20Zc",
    authDomain: "computer-market.firebaseapp.com",
    databaseURL: "https://computer-market.firebaseio.com",

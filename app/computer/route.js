@@ -1,6 +1,7 @@
 import Ember from 'ember';
 
 export default Ember.Route.extend({
+  // model hook
   model(params){
     return this.store.findRecord('computer', params.rental_id);
   }
